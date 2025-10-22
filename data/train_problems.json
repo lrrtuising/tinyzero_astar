@@ -1,0 +1,702 @@
+[
+  {
+    "problem": "45 * 41 = ",
+    "operand1": 45,
+    "operand2": 41,
+    "answer": 1845,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "23 * 96 = ",
+    "operand1": 23,
+    "operand2": 96,
+    "answer": 2208,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "14 * 13 = ",
+    "operand1": 14,
+    "operand2": 13,
+    "answer": 182,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "39 * 74 = ",
+    "operand1": 39,
+    "operand2": 74,
+    "answer": 2886,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "93 * 99 = ",
+    "operand1": 93,
+    "operand2": 99,
+    "answer": 9207,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "67 * 85 = ",
+    "operand1": 67,
+    "operand2": 85,
+    "answer": 5695,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "30 * 99 = ",
+    "operand1": 30,
+    "operand2": 99,
+    "answer": 2970,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "45 * 29 = ",
+    "operand1": 45,
+    "operand2": 29,
+    "answer": 1305,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "23 * 21 = ",
+    "operand1": 23,
+    "operand2": 21,
+    "answer": 483,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "55 * 54 = ",
+    "operand1": 55,
+    "operand2": 54,
+    "answer": 2970,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "68 * 78 = ",
+    "operand1": 68,
+    "operand2": 78,
+    "answer": 5304,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "20 * 80 = ",
+    "operand1": 20,
+    "operand2": 80,
+    "answer": 1600,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "83 * 34 = ",
+    "operand1": 83,
+    "operand2": 34,
+    "answer": 2822,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "94 * 39 = ",
+    "operand1": 94,
+    "operand2": 39,
+    "answer": 3666,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "39 * 22 = ",
+    "operand1": 39,
+    "operand2": 22,
+    "answer": 858,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "68 * 91 = ",
+    "operand1": 68,
+    "operand2": 91,
+    "answer": 6188,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "57 * 55 = ",
+    "operand1": 57,
+    "operand2": 55,
+    "answer": 3135,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "99 * 97 = ",
+    "operand1": 99,
+    "operand2": 97,
+    "answer": 9603,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "78 * 41 = ",
+    "operand1": 78,
+    "operand2": 41,
+    "answer": 3198,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "58 * 44 = ",
+    "operand1": 58,
+    "operand2": 44,
+    "answer": 2552,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "17 * 39 = ",
+    "operand1": 17,
+    "operand2": 39,
+    "answer": 663,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "61 * 44 = ",
+    "operand1": 61,
+    "operand2": 44,
+    "answer": 2684,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "82 * 50 = ",
+    "operand1": 82,
+    "operand2": 50,
+    "answer": 4100,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "60 * 92 = ",
+    "operand1": 60,
+    "operand2": 92,
+    "answer": 5520,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "43 * 27 = ",
+    "operand1": 43,
+    "operand2": 27,
+    "answer": 1161,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "84 * 64 = ",
+    "operand1": 84,
+    "operand2": 64,
+    "answer": 5376,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "38 * 27 = ",
+    "operand1": 38,
+    "operand2": 27,
+    "answer": 1026,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "16 * 24 = ",
+    "operand1": 16,
+    "operand2": 24,
+    "answer": 384,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "97 * 64 = ",
+    "operand1": 97,
+    "operand2": 64,
+    "answer": 6208,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "58 * 86 = ",
+    "operand1": 58,
+    "operand2": 86,
+    "answer": 4988,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "80 * 11 = ",
+    "operand1": 80,
+    "operand2": 11,
+    "answer": 880,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "92 * 53 = ",
+    "operand1": 92,
+    "operand2": 53,
+    "answer": 4876,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "65 * 30 = ",
+    "operand1": 65,
+    "operand2": 30,
+    "answer": 1950,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "43 * 74 = ",
+    "operand1": 43,
+    "operand2": 74,
+    "answer": 3182,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "90 * 48 = ",
+    "operand1": 90,
+    "operand2": 48,
+    "answer": 4320,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "57 * 30 = ",
+    "operand1": 57,
+    "operand2": 30,
+    "answer": 1710,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "72 * 12 = ",
+    "operand1": 72,
+    "operand2": 12,
+    "answer": 864,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "49 * 40 = ",
+    "operand1": 49,
+    "operand2": 40,
+    "answer": 1960,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "82 * 20 = ",
+    "operand1": 82,
+    "operand2": 20,
+    "answer": 1640,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "18 * 78 = ",
+    "operand1": 18,
+    "operand2": 78,
+    "answer": 1404,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "94 * 70 = ",
+    "operand1": 94,
+    "operand2": 70,
+    "answer": 6580,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "77 * 87 = ",
+    "operand1": 77,
+    "operand2": 87,
+    "answer": 6699,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "79 * 98 = ",
+    "operand1": 79,
+    "operand2": 98,
+    "answer": 7742,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "61 * 95 = ",
+    "operand1": 61,
+    "operand2": 95,
+    "answer": 5795,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "76 * 67 = ",
+    "operand1": 76,
+    "operand2": 67,
+    "answer": 5092,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "38 * 18 = ",
+    "operand1": 38,
+    "operand2": 18,
+    "answer": 684,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "85 * 80 = ",
+    "operand1": 85,
+    "operand2": 80,
+    "answer": 6800,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "10 * 19 = ",
+    "operand1": 10,
+    "operand2": 19,
+    "answer": 190,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "18 * 14 = ",
+    "operand1": 18,
+    "operand2": 14,
+    "answer": 252,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "75 * 40 = ",
+    "operand1": 75,
+    "operand2": 40,
+    "answer": 3000,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "37 * 79 = ",
+    "operand1": 37,
+    "operand2": 79,
+    "answer": 2923,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "41 * 70 = ",
+    "operand1": 41,
+    "operand2": 70,
+    "answer": 2870,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "22 * 22 = ",
+    "operand1": 22,
+    "operand2": 22,
+    "answer": 484,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "64 * 62 = ",
+    "operand1": 64,
+    "operand2": 62,
+    "answer": 3968,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "96 * 93 = ",
+    "operand1": 96,
+    "operand2": 93,
+    "answer": 8928,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "61 * 53 = ",
+    "operand1": 61,
+    "operand2": 53,
+    "answer": 3233,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "34 * 34 = ",
+    "operand1": 34,
+    "operand2": 34,
+    "answer": 1156,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "64 * 33 = ",
+    "operand1": 64,
+    "operand2": 33,
+    "answer": 2112,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "41 * 19 = ",
+    "operand1": 41,
+    "operand2": 19,
+    "answer": 779,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "16 * 93 = ",
+    "operand1": 16,
+    "operand2": 93,
+    "answer": 1488,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "40 * 31 = ",
+    "operand1": 40,
+    "operand2": 31,
+    "answer": 1240,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "71 * 37 = ",
+    "operand1": 71,
+    "operand2": 37,
+    "answer": 2627,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "31 * 58 = ",
+    "operand1": 31,
+    "operand2": 58,
+    "answer": 1798,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "43 * 68 = ",
+    "operand1": 43,
+    "operand2": 68,
+    "answer": 2924,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "99 * 81 = ",
+    "operand1": 99,
+    "operand2": 81,
+    "answer": 8019,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "34 * 47 = ",
+    "operand1": 34,
+    "operand2": 47,
+    "answer": 1598,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "84 * 79 = ",
+    "operand1": 84,
+    "operand2": 79,
+    "answer": 6636,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "17 * 16 = ",
+    "operand1": 17,
+    "operand2": 16,
+    "answer": 272,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "17 * 75 = ",
+    "operand1": 17,
+    "operand2": 75,
+    "answer": 1275,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "18 * 86 = ",
+    "operand1": 18,
+    "operand2": 86,
+    "answer": 1548,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "61 * 25 = ",
+    "operand1": 61,
+    "operand2": 25,
+    "answer": 1525,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "89 * 20 = ",
+    "operand1": 89,
+    "operand2": 20,
+    "answer": 1780,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "43 * 36 = ",
+    "operand1": 43,
+    "operand2": 36,
+    "answer": 1548,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "43 * 60 = ",
+    "operand1": 43,
+    "operand2": 60,
+    "answer": 2580,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "68 * 50 = ",
+    "operand1": 68,
+    "operand2": 50,
+    "answer": 3400,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "68 * 89 = ",
+    "operand1": 68,
+    "operand2": 89,
+    "answer": 6052,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "78 * 37 = ",
+    "operand1": 78,
+    "operand2": 37,
+    "answer": 2886,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "54 * 18 = ",
+    "operand1": 54,
+    "operand2": 18,
+    "answer": 972,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "46 * 30 = ",
+    "operand1": 46,
+    "operand2": 30,
+    "answer": 1380,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "88 * 93 = ",
+    "operand1": 88,
+    "operand2": 93,
+    "answer": 8184,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "94 * 23 = ",
+    "operand1": 94,
+    "operand2": 23,
+    "answer": 2162,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "24 * 23 = ",
+    "operand1": 24,
+    "operand2": 23,
+    "answer": 552,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "46 * 87 = ",
+    "operand1": 46,
+    "operand2": 87,
+    "answer": 4002,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "36 * 97 = ",
+    "operand1": 36,
+    "operand2": 97,
+    "answer": 3492,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "42 * 16 = ",
+    "operand1": 42,
+    "operand2": 16,
+    "answer": 672,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "45 * 15 = ",
+    "operand1": 45,
+    "operand2": 15,
+    "answer": 675,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "26 * 91 = ",
+    "operand1": 26,
+    "operand2": 91,
+    "answer": 2366,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "66 * 80 = ",
+    "operand1": 66,
+    "operand2": 80,
+    "answer": 5280,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "24 * 19 = ",
+    "operand1": 24,
+    "operand2": 19,
+    "answer": 456,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "57 * 84 = ",
+    "operand1": 57,
+    "operand2": 84,
+    "answer": 4788,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "26 * 15 = ",
+    "operand1": 26,
+    "operand2": 15,
+    "answer": 390,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "15 * 55 = ",
+    "operand1": 15,
+    "operand2": 55,
+    "answer": 825,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "95 * 23 = ",
+    "operand1": 95,
+    "operand2": 23,
+    "answer": 2185,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "89 * 29 = ",
+    "operand1": 89,
+    "operand2": 29,
+    "answer": 2581,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "32 * 62 = ",
+    "operand1": 32,
+    "operand2": 62,
+    "answer": 1984,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "52 * 62 = ",
+    "operand1": 52,
+    "operand2": 62,
+    "answer": 3224,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "30 * 99 = ",
+    "operand1": 30,
+    "operand2": 99,
+    "answer": 2970,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "14 * 70 = ",
+    "operand1": 14,
+    "operand2": 70,
+    "answer": 980,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "68 * 54 = ",
+    "operand1": 68,
+    "operand2": 54,
+    "answer": 3672,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "38 * 13 = ",
+    "operand1": 38,
+    "operand2": 13,
+    "answer": 494,
+    "difficulty": "easy"
+  }
+]

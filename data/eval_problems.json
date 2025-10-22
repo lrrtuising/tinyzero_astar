@@ -1,0 +1,142 @@
+[
+  {
+    "problem": "99 * 28 = ",
+    "operand1": 99,
+    "operand2": 28,
+    "answer": 2772,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "95 * 99 = ",
+    "operand1": 95,
+    "operand2": 99,
+    "answer": 9405,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "86 * 73 = ",
+    "operand1": 86,
+    "operand2": 73,
+    "answer": 6278,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "83 * 57 = ",
+    "operand1": 83,
+    "operand2": 57,
+    "answer": 4731,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "32 * 17 = ",
+    "operand1": 32,
+    "operand2": 17,
+    "answer": 544,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "58 * 29 = ",
+    "operand1": 58,
+    "operand2": 29,
+    "answer": 1682,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "75 * 73 = ",
+    "operand1": 75,
+    "operand2": 73,
+    "answer": 5475,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "86 * 74 = ",
+    "operand1": 86,
+    "operand2": 74,
+    "answer": 6364,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "58 * 18 = ",
+    "operand1": 58,
+    "operand2": 18,
+    "answer": 1044,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "33 * 17 = ",
+    "operand1": 33,
+    "operand2": 17,
+    "answer": 561,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "45 * 19 = ",
+    "operand1": 45,
+    "operand2": 19,
+    "answer": 855,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "22 * 89 = ",
+    "operand1": 22,
+    "operand2": 89,
+    "answer": 1958,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "52 * 77 = ",
+    "operand1": 52,
+    "operand2": 77,
+    "answer": 4004,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "26 * 20 = ",
+    "operand1": 26,
+    "operand2": 20,
+    "answer": 520,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "85 * 44 = ",
+    "operand1": 85,
+    "operand2": 44,
+    "answer": 3740,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "96 * 87 = ",
+    "operand1": 96,
+    "operand2": 87,
+    "answer": 8352,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "48 * 73 = ",
+    "operand1": 48,
+    "operand2": 73,
+    "answer": 3504,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "15 * 70 = ",
+    "operand1": 15,
+    "operand2": 70,
+    "answer": 1050,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "55 * 26 = ",
+    "operand1": 55,
+    "operand2": 26,
+    "answer": 1430,
+    "difficulty": "easy"
+  },
+  {
+    "problem": "83 * 49 = ",
+    "operand1": 83,
+    "operand2": 49,
+    "answer": 4067,
+    "difficulty": "easy"
+  }
+]
